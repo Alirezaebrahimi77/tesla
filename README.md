@@ -1,4 +1,6 @@
 # Tesla Clone Using React js
+## Goal
+Training Styled-Components and Redux in this project.
 ## The link to open project
 https://flamboyant-hermann-0e5ad1.netlify.app/
 
